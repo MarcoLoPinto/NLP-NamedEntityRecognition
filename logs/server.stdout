@@ -1,0 +1,9 @@
+2022-04-19T19:47:33.068889700Z Creating final model...
+2022-04-19T19:47:33.068935900Z Creating model...
+2022-04-19T19:47:33.068943500Z Loading model weights...
+2022-04-19T19:47:33.068949500Z Init done
+2022-04-19T19:47:33.068955200Z  * Serving Flask app 'app' (lazy loading)
+2022-04-19T19:47:33.068961000Z  * Environment: production
+2022-04-19T19:47:33.068966800Z    WARNING: This is a development server. Do not use it in a production deployment.
+2022-04-19T19:47:33.068972700Z    Use a production WSGI server instead.
+2022-04-19T19:47:33.068978300Z  * Debug mode: off
